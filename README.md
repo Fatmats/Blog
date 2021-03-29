@@ -1,4 +1,4 @@
-# blogg
+# Blog Sayfası yapalım
 
 ## Project setup
 ```
